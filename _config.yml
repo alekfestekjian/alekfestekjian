@@ -30,7 +30,7 @@ twitter_username: afestekjian
 github_username:  alekfestekjian
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
