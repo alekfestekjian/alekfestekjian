@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Alek Festekjian this website includes my favorite books, articles
   and other random stuff. I am currently a Software Developer at Amazon and
   work for the Knowledge Tech organization. 
-baseurl: "/alekfestekjian" # the subpath of your site, e.g. /blog
-url: "https://alekfestekjian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alekfestekjian.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: afestekjian
 github_username:  alekfestekjian
 
