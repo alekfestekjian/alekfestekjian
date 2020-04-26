@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Welcome to my Blog!"
+date:   2020-04-25 14:49:47 -0400
+categories: jekyll update
+---
+Hey all,
+
+This is my first blog post ever. 
+
+My main goal for this blog is to track my progress in my journey to teach myself Machine Learning and hopefully make it easier for others to see that it's possible and not as daunting as they may think.
+
+My initial plan is to follow most of the outline Jason Benn ([@jasoncbenn](https://twitter.com/jasoncbenn)) provided for becoming a Machine Learning Engineer while adding resources I find useful or think I need more practice in along the way.
+
+**P.S** if any of these below interest you please reach out by either [email](mailto:afestekjian3@gmail.com) or [twitter](https://twitter.com/afestekjian) as I'd love to have people to bounce ideas off of and discuss papers with.
+
+- Go through [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=dp_ob_title_bk)
+- Read about [Text feature extraction](http://scikit-learn.org/stable/modules/feature_extraction.html)
+- [Fast.ai part 1 & 2](https://course.fast.ai)
+- [Deep Learning Book](https://www.deeplearningbook.org)
+- Take [CS231n](http://cs231n.stanford.edu), [CS224n](http://cs224d.stanford.edu) and [CS229n](http://cs229.stanford.edu) and do all the homeworks
+- Participate in some Kaggle competitions
+- Start reading academic papers and implementing them (some [papers](https://github.com/JasonBenn/deep-learning-paper-notes) I could start off with.
+- Review [Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+- Go through [Computational Linear Algebra course](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+- Review Calculus
+- Implement softmax, the sigmoid function, backprop, and other neural net components 
+- Implement a basic neural net, a CNN, an RNN, and a GAN (Examples [here](https://github.com/JasonBenn/deep-learning-implementations))
+- Do some [Depth First Learning tutorials](http://www.depthfirstlearning.com)
+- Read [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+- (Bonus) Take [CS294-Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+
+Things I'll do over the course of this plan
+- Read [papers](http://arxiv-sanity.com/top?timefilter=month&vfilter=all) aggregated by Andrej Karpathy 
+- Read posts from [Paper Club](https://medium.com/paper-club)
+- Interesting blogs to read 
+    - [https://distill.pub](https://distill.pub) (Most highly recommended)
+    - [https://thegradient.pub](https://thegradient.pub)
+    - [https://www.inference.vc](https://www.inference.vc)
+    - [https://blog.acolyer.org](https://blog.acolyer.org)
+    - [https://openai.com/blog/](https://openai.com/blog/)
+    - [https://ruder.io](https://ruder.io)
+
+Inspired by these blog posts
+- [Everything you need to become self taught machine learning engineer](https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631)
+- [How I learned to code](https://jasonbenn.com/post/how-i-learned-to-code)
+
+
+
+
+
+[jekyll-gh]:   https://github.com/alekfestekjian
