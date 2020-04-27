@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome! My Journey to teaching myself ML"
+title:  "Welcome! Teaching myself ML"
 date:   2020-04-25 14:49:47 -0400
 categories: jekyll update
 ---
@@ -8,7 +8,7 @@ Hey all,
 
 This is my first blog post ever. 
 
-My main goal for this blog is to track my progress in my journey to teach myself Machine Learning and hopefully make it easier for others to see that it's possible and not as daunting as they may think.
+My main goal for this blog is to track my progress in teaching myself Machine Learning and hopefully make it easier for others to see that it's possible and not as daunting as they may think.
 
 My initial plan is to follow most of the outline Jason Benn ([@jasoncbenn](https://twitter.com/jasoncbenn)) provided for becoming a Machine Learning Engineer while adding resources I find useful or think I need more practice in along the way.
 
