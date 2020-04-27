@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my Blog!"
+title:  "Welcome! My Journey to teaching myself ML"
 date:   2020-04-25 14:49:47 -0400
 categories: jekyll update
 ---
